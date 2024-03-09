@@ -19,7 +19,7 @@ Hello, I'm @Saim-Sachdeva, a dedicated third-year Computer Science student at KI
 - 📚 HCompleted training in Cloud Computing with AWS.
 - 📚 Proficient in using Git with GUI.
 - 📱 Actively engaged in web development.
-- 📷 You can find me on Instagram as [@nerdo001](https://www.instagram.com/saim_3777/).
+- 📷 You can find me on Instagram as [@saim_3777](https://www.instagram.com/saim_3777/).
 
 
 ## Contact Me
