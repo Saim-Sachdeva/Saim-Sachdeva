@@ -26,7 +26,7 @@ Hello, I'm @Saim-Sachdeva, a dedicated third-year Computer Science student at KI
 
 Feel free to reach out to me on Instagram if you have any questions, collaboration ideas, or just want to connect. Let's make the tech world a better place together!
 
-[![Instagram](https://img.shields.io/badge/Instagram-%40nerdo001-blue)](https://www.instagram.com/saim_3777/)
+[![Instagram](https://img.shields.io/badge/Instagram-%40saim_3777-blue)](https://www.instagram.com/saim_3777/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5)](https://www.linkedin.com/in/saim-sachdeva-4b5697273/)
 
 
