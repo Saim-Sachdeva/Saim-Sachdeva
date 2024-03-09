@@ -1,5 +1,6 @@
 # Welcome to My GitHub Profile
 
+![Profile Banner](https://github.com/Saim-Sachdeva/Saim-Sachdeva/blob/main/X.png)
 
 Hello, I'm @Saim-Sachdeva, a dedicated third-year Computer Science student at KIIT University. I am passionate about programming and technology, and I enjoy working on a wide range of projects. Here's a little more about me:
 
